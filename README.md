@@ -6,7 +6,7 @@
 
 ## LIKE
 程式
-```
+```C
 #include <stdio.h>
 int main()
 {
