@@ -5,6 +5,15 @@
 會呼吸的肉
 
 ## LIKE
+程式
+```
+#include <stdio.h>
+int main()
+{
+  printf("Hello World\n");
+  return 0;
+}
+```
 [書](https://zh.wikipedia.org/wiki/%E5%9B%BE%E4%B9%A6)
 [電影](https://zh.wikipedia.org/wiki/%E7%94%B5%E5%BD%B1)
 [音樂](https://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90)
